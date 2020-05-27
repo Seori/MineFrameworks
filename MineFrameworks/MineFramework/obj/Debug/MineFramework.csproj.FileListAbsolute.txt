@@ -1,0 +1,58 @@
+C:\Users\장용석\source\repos\MineFramework\bin\Debug\MineFramework.dll
+C:\Users\장용석\source\repos\MineFramework\bin\Debug\MineFramework.pdb
+C:\Users\장용석\source\repos\MineFramework\obj\Debug\MineFramework.csprojAssemblyReference.cache
+C:\Users\장용석\source\repos\MineFramework\obj\Debug\MineFramework.dll
+C:\Users\장용석\source\repos\MineFramework\obj\Debug\MineFramework.pdb
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.dll
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.pdb
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\x86\sqlite3.dll
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\x64\sqlite3.dll
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\MineFramework.dll
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\MineFramework.pdb
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.csproj.CopyComplete
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\x86\sqlite3.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\x64\sqlite3.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\MineFramework.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\MineFramework.pdb
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.csproj.CopyComplete
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.pdb
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.Control.NumCls.resources
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.csproj.GenerateResource.cache
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.Control.NumCls.resources
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.csproj.GenerateResource.cache
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.Control.DataGridCls.resources
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.Control.DataGridCls.resources
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.csprojAssemblyReference.cache
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.csproj.CoreCompileInputs.cache
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\obj\Debug\MineFramework.csproj.CoreCompileInputs.cache
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\MineFramework.dll.config
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Npgsql.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Buffers.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Memory.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Text.Json.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.ValueTuple.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Npgsql.pdb
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Npgsql.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Buffers.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Memory.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Text.Json.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\System.ValueTuple.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Npgsql.Json.NET.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Npgsql.Json.NET.pdb
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineFramework\bin\Debug\Npgsql.Json.NET.xml

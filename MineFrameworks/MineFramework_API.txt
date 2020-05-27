@@ -1,0 +1,27 @@
+MineFramework API
+
+*Control
+ 1.EncryptCls
+   - encryptAES128(string plain) : AES 128비트방식으로 암호화 하기
+     ex) encryptAES128("aaaa");
+   - decryptAES128(string plain) : AES 128비트방식으로 복호화 하기
+     ex) decryptAES128("asdas2!@#");
+   - encryptAES256(string plain) : AES 256비트방식으로 암호화 하기
+     ex) encryptAES256("aaaa");
+   - decryptAES256(string plain) : AES 256비트방식으로 복호화 하기
+     ex) decryptAES256("asdas2!@#");
+ 2.GridCls
+ 3.MsgCls
+*Database
+ 1.DbConCls
+   - constrSet(string _dbip, string _dbport, string _dbname, string _dbid, string _dbpw) : 접속정보를 셋팅합니다.
+     ex) constrSet("127.0.0.1", "1433", "CUBEDB", "cyssori", "cys1203");
+   - Connect() : Database에 접속합니다.
+     ex) Connect();
+
+*Utility
+ 1.DictionaryCls
+ 2.DtCls
+ 3.FileCls
+ 4.LogCls
+ 5.StringCls

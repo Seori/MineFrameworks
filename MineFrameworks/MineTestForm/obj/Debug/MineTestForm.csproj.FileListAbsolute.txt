@@ -1,0 +1,70 @@
+C:\Users\장용석\source\repos\MineTestForm\bin\Debug\MineTestForm.exe.config
+C:\Users\장용석\source\repos\MineTestForm\bin\Debug\MineTestForm.exe
+C:\Users\장용석\source\repos\MineTestForm\bin\Debug\MineTestForm.pdb
+C:\Users\장용석\source\repos\MineTestForm\bin\Debug\MineFramework.dll
+C:\Users\장용석\source\repos\MineTestForm\bin\Debug\MineFramework.pdb
+C:\Users\장용석\source\repos\MineTestForm\obj\Debug\MineTestForm.csprojAssemblyReference.cache
+C:\Users\장용석\source\repos\MineTestForm\obj\Debug\MineTestForm.Form1.resources
+C:\Users\장용석\source\repos\MineTestForm\obj\Debug\MineTestForm.Properties.Resources.resources
+C:\Users\장용석\source\repos\MineTestForm\obj\Debug\MineTestForm.csproj.GenerateResource.cache
+C:\Users\장용석\source\repos\MineTestForm\obj\Debug\MineTestForm.csproj.CopyComplete
+C:\Users\장용석\source\repos\MineTestForm\obj\Debug\MineTestForm.exe
+C:\Users\장용석\source\repos\MineTestForm\obj\Debug\MineTestForm.pdb
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\MineTestForm.exe.config
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\MineTestForm.exe
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\MineTestForm.pdb
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\MineFramework.dll
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\MineFramework.pdb
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.csprojAssemblyReference.cache
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.Form1.resources
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.Properties.Resources.resources
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.csproj.GenerateResource.cache
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.csproj.CopyComplete
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.exe
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.pdb
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Data.SQLite.dll
+C:\Users\장용석\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.PasswordExe.resources
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\MineTestForm.exe.config
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\MineTestForm.exe
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\MineTestForm.pdb
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\MineFramework.pdb
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.csprojAssemblyReference.cache
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.Form1.resources
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.PasswordExe.resources
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.Properties.Resources.resources
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.csproj.GenerateResource.cache
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.csproj.CopyComplete
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.exe
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.pdb
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.csproj.CoreCompileInputs.cache
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\MineFramework.dll.config
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.ThreadCheckForm.resources
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\Npgsql.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Buffers.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Memory.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Text.Json.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.ValueTuple.dll
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\Npgsql.pdb
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\Npgsql.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Buffers.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Memory.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Text.Json.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\System.ValueTuple.xml
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.exe.config
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\obj\Debug\MineTestForm.SocketServer.resources
+C:\Users\cysso\SynologyDrive\Projects\2019_thinlab#2 MineFramework\MineTestForm\bin\Debug\MineFramework.dll
